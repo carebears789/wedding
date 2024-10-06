@@ -4,7 +4,7 @@
     justify-content: center;
     height: 200px;
     width: 200px;
-    
+    margin-right: 10px;
     align-items: center;
     flex-direction: column;
     border-radius: 10px;
@@ -22,7 +22,7 @@
 html{
     width: 100%;
     height: 100%;
-    background-image: url("_DSC7790.jpg");
+    background-image: url("newpic.jpg");
     background-size: cover;
     background-position: 100%;
 }
