@@ -34,6 +34,13 @@ html{
         background-size: cover;
         background-position: 100%;
     }
+    body{
+        height: inherit;
+    }
+    html > .info{
+        display: flex;
+        align-self: flex-end;
+    }
   }
 .info{
     height:100%;
